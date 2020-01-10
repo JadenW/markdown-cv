@@ -1,91 +1,55 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Qingyang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Qingyang Wang
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="wangqy3517@gmail.com">wangqy3517@gmail.com</a>
+| <a href="https://github.com/JadenW">github.com/JadenW</a>
 </div>
 
+## Profile
+Experienced Software Engineer with a focus on distributed systems, database or storage systems design and development.  
+Specialize in Java and have professional experience working with C++, Python, Go.
 
-## Currently
+## Experience
+**Senior Software Engineer, VoltDB,Inc (Feb 2018 – Present)**  
+Work for Core team, which is responsible for database storage, query optimization and distributed transactions.  
+	- Optimized database storage layer by supporting single replicated table per node, which greatly reduce memory footprint usage when customer has large reference tables and still maintain low query latency;  
+	- Overhauled memory allocation strategy by replacing force compacting pool to self compacting pool, which achieved much predictable latency;  
+	- Improved cluster stability and query deterministic with gracefully heal data divergence among different replicas;  
+	- Designed and implement scalable transaction scheduler for support concurrent execution of multi partition transactions, which improved throughput for "credit-debit" type application by order of magnitude.
 
-Standing on the shoulders of giants
+**Software Engineer, VoltDB,Inc (Jan 2016 – Feb 2018)**  
+Work for Elastic team, which is responsible for database high available features,
+such as Write Ahead Logging, Snapshot and Data Replication.  
+	- Extended Cross Datacenter Data Replication by adding support for Multi Clusters Active-Active replication;  
+	- Improved cluster orchestration with elastically expansion and contraction feature, which can dynamically add or remove nodes from running cluster without disturbing transaction.
 
-### Specialized in
+**Software Engineer Intern, VoltDB,Inc (May 2015 - Dec 2015)**  
+Work for Ecosystem team, which focus on implement, optimize and troubleshot database clients, ETL tooling and upstream/downstream connectors.  
+	- Developed Connectors for Apache Kafka, AWS Kinesis and Elastic Search;  
+	- Extended SQL testing framework by injecting randomly generated SQL statements;  
+	- Implement SNMP Capable Resource Monitors.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Software Engineer Intern, Amazon Web Services (May 2014 - Aug 2014)**  
+Work for Elastic Block Store (EBS) team, which offers block level storage volumes for Elastic Compute Cloud (EC2) instances.  
+	- Implement data aggregation tools using Hive and Elastic MapReduce (EMR);   
+	- Prototyped large scale internal monitoring and data analysis service. 
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+**Software Engineer Intern, Mobile and Wireless Group, Broadcom Corp 
+(May 2012 - Aug 2012)**  
+Work for modem simulation platform and automation tools for WCDMA/HSPA performance analysis and vector generation. 
 
 ## Education
+**Worcester Polytechnic Institute (2012-2015)** – Ph.D Candidate (quit), Computer Science
 
-`1654-1660`
-__The King's School, Grantham.__
+**Worcester Polytechnic Institute (2010-2012)** – MS, Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Beijing University of Aeronautics and Astronautics (2005-2009)** – BS, Electrical and Electronics Engineering
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 

@@ -33,13 +33,13 @@ Work for Ecosystem team, which focus on implement, optimize and troubleshot data
 	- Implement SNMP Capable Resource Monitors.
 
 **Software Engineer Intern, Amazon Web Services (May 2014 - Aug 2014)**  
-Work for Elastic Block Store (EBS) team, which offers block level storage volumes for Elastic Compute Cloud (EC2) instances.  
+Work for Elastic Block Store (EBS) team, which offers block level storage volumes for Elastic Compute Cloud (EC2) instances. 
 	- Implement data aggregation tools using Hive and Elastic MapReduce (EMR);   
 	- Prototyped large scale internal monitoring and data analysis service. 
 
-**Software Engineer Intern, Mobile and Wireless Group, Broadcom Corp 
-(May 2012 - Aug 2012)**  
-Work for modem simulation platform and automation tools for WCDMA/HSPA performance analysis and vector generation. 
+**Software Engineer Intern, Broadcom Corp (May 2012 - Aug 2012)**  
+Work for Mobile and Wireless Group  
+	- Developed automation tools for WCDMA/HSPA performance analysis and modem simulation platform. 
 
 ## Education
 **Worcester Polytechnic Institute (2012-2015)** – Ph.D Candidate (quit), Computer Science

@@ -17,7 +17,7 @@ Specialize in Java and have professional experience working with C++, Python, Go
 Work for Core team, which is responsible for database storage, query optimization and distributed transactions.  
 	- Optimized database storage layer by supporting single replicated table per node, which greatly reduce memory footprint usage when customer has large reference tables and still maintain low query latency;  
 	- Overhauled memory allocation strategy by replacing force compacting pool to self compacting pool, which achieved much predictable latency;  
-	- Improved cluster stability by gracefully repair data divergence among replicas; 
+	- Improved cluster stability by gracefully resolve data divergence among replicas;  
 	- Designed and implement scalable transaction scheduler for support concurrent execution of multi partition transactions, which improved throughput for "credit-debit" type application by order of magnitude.
 
 **Software Engineer, VoltDB,Inc (Jan 2016 – Feb 2018)**  
@@ -42,7 +42,9 @@ Work for Mobile and Wireless Group, developed automation tools for WCDMA perform
 
 ## Education
 **Worcester Polytechnic Institute (2012-2015)** – Ph.D Candidate (quit), Computer Science
+
 **Worcester Polytechnic Institute (2010-2012)** – MS, Computer Science
+
 **Beijing University of Aeronautics and Astronautics (2005-2009)** – BS, Electrical and Electronics Engineering
 
 <!-- ### Footer
